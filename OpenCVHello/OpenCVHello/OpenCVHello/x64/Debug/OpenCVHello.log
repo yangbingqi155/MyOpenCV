@@ -1,0 +1,20 @@
+﻿生成启动时间为 11/20/2013 3:03:36 PM。
+     1>项目“E:\MyCode\OpenCV\MyOpenCV\OpenCVHello\OpenCVHello\OpenCVHello\OpenCVHello.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“x64\Debug\OpenCVHello.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“x64\Debug\OpenCVHello.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt OpenCVHello.cpp stdafx.cpp
+         OpenCVHello.cpp
+         stdafx.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MyCode\OpenCV\MyOpenCV\OpenCVHello\OpenCVHello\x64\Debug\OpenCVHello.exe" /NOLOGO opencv_calib3d300d.lib opencv_contrib300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgproc300d.lib opencv_legacy300d.lib opencv_ml300d.lib opencv_nonfree300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_stitching300d.lib opencv_ts300d.lib opencv_video300d.lib opencv_videostab300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\OpenCVHello.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\MyCode\OpenCV\MyOpenCV\OpenCVHello\OpenCVHello\x64\Debug\OpenCVHello.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MyCode\OpenCV\MyOpenCV\OpenCVHello\OpenCVHello\x64\Debug\OpenCVHello.lib" /MACHINE:X64 x64\Debug\OpenCVHello.obj
+         x64\Debug\stdafx.obj
+     1>opencv_core300d.lib(opencv_core300d.dll) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
+     1>已完成生成项目“E:\MyCode\OpenCV\MyOpenCV\OpenCVHello\OpenCVHello\OpenCVHello\OpenCVHello.vcxproj”(rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.89
