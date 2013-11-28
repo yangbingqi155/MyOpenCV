@@ -122,6 +122,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="C:\Users\ybq_000\Desktop\iphone5.jpg" />
+    <None Include="C:\Users\ybq_000\Desktop\test.jpg" />
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
